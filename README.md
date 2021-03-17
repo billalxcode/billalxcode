@@ -1,6 +1,6 @@
-![Coding](https://c4.wallpaperflare.com/wallpaper/792/460/915/1920x1080-px-code-coding-programming-simple-background-anime-ah-my-goddess-hd-art-wallpaper-preview.jpg)
+<p align="center"><img src="https://c4.wallpaperflare.com/wallpaper/792/460/915/1920x1080-px-code-coding-programming-simple-background-anime-ah-my-goddess-hd-art-wallpaper-preview.jpg"></p>
 
-![stats](https://github-readme-stats.vercel.app/api?username=billalxcode&show_icons=true&theme=gotham)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=billalxcode&show_icons=true&theme=gotham"></p>
 
 <!--
 **billalxcode/billalxcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
