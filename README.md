@@ -1,21 +1,21 @@
 ```python
-     ┣╋╋╋╋╋╋╋╋╋╋╋╈╋╋$╋╋╋╋╋╋                ╋┛ ┏╋╋┛  _┲╋╋╋╋╋╋╋╋╋╋╋╋╋╋   billalxcode@MacBillal
-      ┻╋╋╋╋╋╋╋╋╋╉╋╋╋╋╋╋╋╋╋^                ┛ ╆╋┛  y╋╋╋F╏┳╋╋╋╋╋╋╋╋╋╋╋   ------------------------------------ 
-  __┎_ ~┻╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋┛        _y        ╊╋` y╋╋╋┛  ┣╋╋╋╋╋╋╋╋┛~~~   OS: macOS 26.6 25G5057c arm64 
-╋╋╋╋╋╋╋┳_`┗╋╋╋╋╋╋╋╋╋╋╋╋╋╋       _g╋╋╋┒      ┡^_╈╋╋┛_gggy╏┻┻┻┻┻~        Host: MacBookAir10,1 
-╋╋╋╋╋╋╋╋╋╋┳y~┻╋╋╋╋╋╋╋╋╋╋'      y╋╋╋╋╋╋$      ┳╋╋┻_╈╋@@╋╋╋╋╋╋┓          Kernel: 25.6.0 
-╋╋╋╋╋╋╋╋╋╋╋╋╋g_┗╋╋╋╋╋╋╋┛      ┏╋╋╋╋╋╋╋╋╋     ┣╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋┓         Uptime: 1 day, 3 hours, 41 mins 
-╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋y~╋╋╋╋╋      ╺┻╋╋╋╋╋╋╋╋╋┑    ┝╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╸┣╋┳  e   Packages: 232 (brew) 
-┣╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋g┣╋╋╋     ┎┱g╈╋╋╋╋╋y$╊╋    ┣╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋┏╋╋┫ ╋    Shell: zsh 5.9 
-┲╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋g╊╋     ╋╋╋╋╋╋╋╋╋╋╋╋╋    ╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋F╋╋╋╸*     Resolution: 1680x1050 
-╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋┛     ╋╋╋╋╋╋╋╋╋╋╋╋┛   ┣╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋┏╋╋┫       DE: Aqua 
-╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋┛      ┗╋╋╋╋╋╋╋╋╋╋┛    ╏╋╇╋╋╋╋╋╋╋╋╋╋╋╋M╋╋╋'       WM: Quartz Compositor 
-╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋┻┛         ┗╋@╋╋╋╋┫`     ┕╋┱~┗┻╋╋╋╋╋╋╋╋┫┢╋┛         WM Theme: Blue (Dark) 
-╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋┛yy┳╴          ╋╉@@╋╋┫       `┻┻ ┡┗╋╋╋╋╋┛~ yg┳gyg┱__   Terminal: /dev/ttys000 
-╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋┻~@┰y,         ┕┻T╿~~`        ╺g_╺╋┣╋╋╋╋┫`╊╋╋╋╋╋╋╋╋╋   CPU: Apple M1 
-╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋ ╋┻~~`            │  .         ┗╋┪┡╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋   GPU: Apple M1 
-╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋┓╺~    ┄        ╷__╁__╏          `┫┕╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋┛   Memory: 1611MiB / 8192MiB 
-╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋ yy┰┰_    ,     ┛╹┗╹\ ┒        _  ╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋
-╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋$ `  ╹    `    `╺╊╋WsE┣       ~~~╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋                           
-╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋┓       ┌ . ┏,_ ~╋F┫┗┒         ╆╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋                           
+                    'c.          billlaxcode@MacBook-Air-Billal.local 
+                 ,xNMM.          ------------------------------------ 
+               .OMMMMo           OS: macOS 26.6 25G5065a arm64 
+               OMMM0,            Host: MacBookAir10,1 
+     .;loddo:' loolloddol;.      Kernel: 25.6.0 
+   cKMMMMMMMMMMNWMMMMMMMMMM0:    Uptime: 21 hours, 47 mins 
+ .KMMMMMMMMMMMMMMMMMMMMMMMWd.    Packages: 232 (brew) 
+ XMMMMMMMMMMMMMMMMMMMMMMMX.      Shell: zsh 5.9 
+;MMMMMMMMMMMMMMMMMMMMMMMM:       Resolution: 1680x1050 
+:MMMMMMMMMMMMMMMMMMMMMMMM:       DE: Aqua 
+.MMMMMMMMMMMMMMMMMMMMMMMMX.      WM: Quartz Compositor 
+ kMMMMMMMMMMMMMMMMMMMMMMMMWd.    WM Theme: Blue (Dark) 
+ .XMMMMMMMMMMMMMMMMMMMMMMMMMMk   Terminal: /dev/ttys009 
+  .XMMMMMMMMMMMMMMMMMMMMMMMMK.   CPU: Apple M1 
+    kMMMMMMMMMMMMMMMMMMMMMMd     GPU: Apple M1 
+     ;KMMMMMMMWXXWMMMMMMMk.      Memory: 1585MiB / 8192MiB 
+       .cooc,.    .,coo:.
+                                                         
+     - .. .- .-. .- / -.. .-- .. / ... .. .-.. ...- .. .- -. .-
 ```
